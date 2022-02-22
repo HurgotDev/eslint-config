@@ -6,3 +6,4 @@ Required plugins
 - eslint-plugin-import
 - eslint-plugin-prettier
 - eslint-plugin-promise
+- eslint-plugin-import
